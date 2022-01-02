@@ -1,2 +1,2 @@
-# Data-Visualisation
-Projects related to Data visualisation in python
+# Python projects
+All Python projects worked by me

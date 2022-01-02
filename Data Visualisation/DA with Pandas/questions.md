@@ -1,0 +1,67 @@
+# Line plot
+
+1) import libraries
+2) create a sample of 1000 data points in pandas and numpy
+3) create a line plot
+4) create a cumulative sum
+5) create line plot of cumulative sum
+
+# Line plot on iris dataset
+1)  Import Iris dataset from seaborn
+2) do a head of the iris dataset
+3) just keep the attributes with numerical values
+4) plot the line plot
+5) remove legend
+6) change y axis to log scale
+
+# Box plot
+1) Keep only numerical values
+2) axis =0 mean rows, axis = 1 mean columns
+
+# Histogram
+1) load titanic dataset
+2) find the unique values of pclass column
+3) draw a histogram of the pclass column
+4) draw histogram of survived column
+
+# Stacked bar chat
+1) create a stacked plot by 10 rows and 4 columns
+2) plot a bar chat
+3) plot a stacked bar chart
+4) plot a horizontal stacked bar chart
+
+# histogram
+1) get iris dataset
+2) create a histogram on all columns
+3) create histogram with bins = 30
+4) create stacked histogram with bins = 30
+5) create horizontal histogram with bins = 50. hint use: orientation
+6) create histogram on only petal_length with bins = 20
+7) create seperate subplots for each column
+
+# Boxplot
+1) create boxplot
+2) create horizontal boxplot, use vert attribute
+
+# Areaplot
+1) create area plot from iris dataset
+2) remove the stacked variable
+3) change the transperancy of plot = 0.3
+
+# Scatter plot
+1) create scatter plot with sepal width and petal width
+2) create 3d scatter plot with x = 'sepal_width', y = 'petal_width', c = 'sepal_length'
+
+# hex plot
+1) creat a hex plot with sepal_length, petal_length and sepal_width as c and gridsize = 10
+
+# piechart
+1) create a pie plot for the row number 3
+2) create pie chart of first 3 rows
+3) change the size
+4) add lables
+
+# scatter matrix
+1) create a scatter subplots of all variables
+2) the diagonal values should be all kde
+3) color of data points should be green
